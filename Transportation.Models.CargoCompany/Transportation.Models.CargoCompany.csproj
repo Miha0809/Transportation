@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Transportation.Models.Customer\Transportation.Models.Customer.csproj" />
+    <ProjectReference Include="..\Transportation.Models\Transportation.Models.csproj" />
+  </ItemGroup>
+
+</Project>

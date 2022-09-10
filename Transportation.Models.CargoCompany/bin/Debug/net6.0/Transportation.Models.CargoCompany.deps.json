@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Transportation.Models.CargoCompany/1.0.0": {
+        "dependencies": {
+          "Transportation.Models.Customer": "1.0.0"
+        },
+        "runtime": {
+          "Transportation.Models.CargoCompany.dll": {}
+        }
+      },
+      "Transportation.Models.Customer/1.0.0": {
+        "runtime": {
+          "Transportation.Models.Customer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Transportation.Models.CargoCompany/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Transportation.Models.Customer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

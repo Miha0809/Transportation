@@ -1,0 +1,15 @@
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.CargoCompany\bin\Debug\net6.0\Transportation.Models.CargoCompany.deps.json
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.CargoCompany\bin\Debug\net6.0\Transportation.Models.CargoCompany.dll
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.CargoCompany\bin\Debug\net6.0\Transportation.Models.CargoCompany.pdb
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.CargoCompany\obj\Debug\net6.0\Transportation.Models.CargoCompany.csproj.AssemblyReference.cache
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.CargoCompany\obj\Debug\net6.0\Transportation.Models.CargoCompany.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.CargoCompany\obj\Debug\net6.0\Transportation.Models.CargoCompany.AssemblyInfoInputs.cache
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.CargoCompany\obj\Debug\net6.0\Transportation.Models.CargoCompany.AssemblyInfo.cs
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.CargoCompany\obj\Debug\net6.0\Transportation.Models.CargoCompany.csproj.CoreCompileInputs.cache
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.CargoCompany\obj\Debug\net6.0\Transportation.Models.CargoCompany.dll
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.CargoCompany\obj\Debug\net6.0\refint\Transportation.Models.CargoCompany.dll
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.CargoCompany\obj\Debug\net6.0\Transportation.Models.CargoCompany.pdb
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.CargoCompany\obj\Debug\net6.0\ref\Transportation.Models.CargoCompany.dll
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.CargoCompany\bin\Debug\net6.0\Transportation.Models.Customer.dll
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.CargoCompany\bin\Debug\net6.0\Transportation.Models.Customer.pdb
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.CargoCompany\obj\Debug\net6.0\Transportation.Models.CargoCompany.csproj.CopyComplete

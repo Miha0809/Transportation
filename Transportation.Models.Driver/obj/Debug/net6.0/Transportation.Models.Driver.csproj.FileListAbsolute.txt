@@ -1,0 +1,15 @@
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Driver\bin\Debug\net6.0\Transportation.Models.Driver.deps.json
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Driver\bin\Debug\net6.0\Transportation.Models.Driver.dll
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Driver\bin\Debug\net6.0\Transportation.Models.Driver.pdb
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Driver\obj\Debug\net6.0\Transportation.Models.Driver.csproj.AssemblyReference.cache
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Driver\obj\Debug\net6.0\Transportation.Models.Driver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Driver\obj\Debug\net6.0\Transportation.Models.Driver.AssemblyInfoInputs.cache
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Driver\obj\Debug\net6.0\Transportation.Models.Driver.AssemblyInfo.cs
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Driver\obj\Debug\net6.0\Transportation.Models.Driver.csproj.CoreCompileInputs.cache
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Driver\obj\Debug\net6.0\Transportation.Models.Driver.dll
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Driver\obj\Debug\net6.0\refint\Transportation.Models.Driver.dll
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Driver\obj\Debug\net6.0\Transportation.Models.Driver.pdb
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Driver\obj\Debug\net6.0\ref\Transportation.Models.Driver.dll
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Driver\bin\Debug\net6.0\Transportation.Models.Customer.dll
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Driver\bin\Debug\net6.0\Transportation.Models.Customer.pdb
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Driver\obj\Debug\net6.0\Transportation.Models.Driver.csproj.CopyComplete

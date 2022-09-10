@@ -1,0 +1,12 @@
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Customer\bin\Debug\net6.0\Transportation.Models.Customer.deps.json
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Customer\bin\Debug\net6.0\Transportation.Models.Customer.dll
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Customer\bin\Debug\net6.0\Transportation.Models.Customer.pdb
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Customer\obj\Debug\net6.0\Transportation.Models.Customer.csproj.AssemblyReference.cache
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Customer\obj\Debug\net6.0\Transportation.Models.Customer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Customer\obj\Debug\net6.0\Transportation.Models.Customer.AssemblyInfoInputs.cache
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Customer\obj\Debug\net6.0\Transportation.Models.Customer.AssemblyInfo.cs
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Customer\obj\Debug\net6.0\Transportation.Models.Customer.csproj.CoreCompileInputs.cache
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Customer\obj\Debug\net6.0\Transportation.Models.Customer.dll
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Customer\obj\Debug\net6.0\refint\Transportation.Models.Customer.dll
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Customer\obj\Debug\net6.0\Transportation.Models.Customer.pdb
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Customer\obj\Debug\net6.0\ref\Transportation.Models.Customer.dll

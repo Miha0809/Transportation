@@ -1,0 +1,12 @@
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models\bin\Debug\net6.0\Transportation.Models.deps.json
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models\bin\Debug\net6.0\Transportation.Models.dll
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models\bin\Debug\net6.0\Transportation.Models.pdb
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models\obj\Debug\net6.0\Transportation.Models.csproj.AssemblyReference.cache
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models\obj\Debug\net6.0\Transportation.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models\obj\Debug\net6.0\Transportation.Models.AssemblyInfoInputs.cache
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models\obj\Debug\net6.0\Transportation.Models.AssemblyInfo.cs
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models\obj\Debug\net6.0\Transportation.Models.csproj.CoreCompileInputs.cache
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models\obj\Debug\net6.0\Transportation.Models.dll
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models\obj\Debug\net6.0\refint\Transportation.Models.dll
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models\obj\Debug\net6.0\Transportation.Models.pdb
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models\obj\Debug\net6.0\ref\Transportation.Models.dll
