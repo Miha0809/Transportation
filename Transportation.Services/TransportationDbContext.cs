@@ -8,11 +8,14 @@ namespace Transportation.Services;
 
 public class TransportationDbContext : DbContext
 {
-    public TransportationDbContext(DbContextOptions<TransportationDbContext> opinion) : base(opinion) { }
+    public TransportationDbContext(DbContextOptions<TransportationDbContext> opinion) : base(opinion)
+    {
+    }
 
     // Project
     public virtual DbSet<Role> Roles { get; set; }
     public virtual DbSet<RefreshToken> RefreshTokens { get; set; }
+    public virtual DbSet<User> Users { get; set; }
 
     // Customer
     public virtual DbSet<Customer> Customers { get; set; }

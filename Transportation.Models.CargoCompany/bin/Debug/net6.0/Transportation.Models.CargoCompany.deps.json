@@ -8,15 +8,33 @@
     ".NETCoreApp,Version=v6.0": {
       "Transportation.Models.CargoCompany/1.0.0": {
         "dependencies": {
-          "Transportation.Models.Customer": "1.0.0"
+          "Transportation.Models": "1.0.0",
+          "Transportation.Models.Customer": "1.0.0",
+          "Transportation.Models.Driver": "1.0.0"
         },
         "runtime": {
           "Transportation.Models.CargoCompany.dll": {}
         }
       },
+      "Transportation.Models/1.0.0": {
+        "runtime": {
+          "Transportation.Models.dll": {}
+        }
+      },
       "Transportation.Models.Customer/1.0.0": {
+        "dependencies": {
+          "Transportation.Models": "1.0.0"
+        },
         "runtime": {
           "Transportation.Models.Customer.dll": {}
+        }
+      },
+      "Transportation.Models.Driver/1.0.0": {
+        "dependencies": {
+          "Transportation.Models.Customer": "1.0.0"
+        },
+        "runtime": {
+          "Transportation.Models.Driver.dll": {}
         }
       }
     }
@@ -27,7 +45,17 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Transportation.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Transportation.Models.Customer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Transportation.Models.Driver/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

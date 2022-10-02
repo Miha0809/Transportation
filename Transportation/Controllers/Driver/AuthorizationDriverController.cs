@@ -10,6 +10,8 @@ using Transportation.Services;
 
 namespace Transportation.Controllers.Driver;
 
+[Route("api/[controller]")]
+[ApiController]
 public class AuthorizationDriverController : Controller
 {
     private readonly TransportationDbContext _context;
@@ -21,7 +23,7 @@ public class AuthorizationDriverController : Controller
     }
 
     [HttpPost("register")]
-    public async Task<IActionResult> Register(Models.Driver.Driver driver)
+    public async Task<IActionResult> Register([FromBody] Models.Driver.Driver driver)
     {
         if (driver == null || !ModelState.IsValid)
         {

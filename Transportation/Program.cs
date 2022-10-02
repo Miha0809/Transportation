@@ -7,16 +7,10 @@ using Transportation.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddTransient<IAuthorizationHandler, RolesInDBAuthorizationHandler>();
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
-// builder.Services.AddSwaggerGen();
-builder.Services.AddCors();
-builder.Services.AddTransient<IAuthorizationHandler, RolesInDBAuthorizationHandler>();
-builder.Services.AddDbContext<TransportationDbContext>(option =>
-{
-    option.UseLazyLoadingProxies()
-        .UseNpgsql(builder.Configuration.GetConnectionString("Default"));
-});
+builder.Services.AddSwaggerGen();
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(jwt =>
     {
@@ -31,24 +25,38 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             ClockSkew = TimeSpan.Zero
         };
     });
-
+builder.Services.AddCors(option =>
+{
+    option.AddDefaultPolicy(corsPolicyBuilder =>
+    {
+        corsPolicyBuilder
+            .WithOrigins()
+            .AllowAnyOrigin()
+            .AllowAnyHeader()
+            .AllowAnyMethod();
+    });
+});
+builder.Services.AddDbContext<TransportationDbContext>(option =>
+{
+    option.UseLazyLoadingProxies()
+        .UseSqlServer(builder.Configuration.GetConnectionString("Default"));
+});
 var app = builder.Build();
 
-// if (app.Environment.IsDevelopment())
-// {
-//     app.UseSwagger();
-//     app.UseSwaggerUI();
-// }
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
 
 app.UseHttpsRedirection();
 app.UseRouting();
-app.UseCors(options =>
-{
-    options.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
-});
+app.UseCors();
+
 app.UseAuthentication();
 app.UseAuthorization();
 
+app.MapControllers();
 app.UseEndpoints(endpoints =>
 {
     // endpoints.MapControllerRoute(

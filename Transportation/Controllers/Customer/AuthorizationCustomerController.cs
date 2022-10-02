@@ -10,6 +10,8 @@ using Transportation.Services;
 
 namespace Transportation.Controllers.Customer;
 
+[Route("api/[controller]")]
+[ApiController]
 public class AuthorizationCustomerController : Controller
 {
     private readonly TransportationDbContext _context;
@@ -21,7 +23,7 @@ public class AuthorizationCustomerController : Controller
     }
 
     [HttpPost("register")]
-    public async Task<IActionResult> Register(Models.Customer.Customer customer)
+    public async Task<IActionResult> Register([FromBody] Models.Customer.Customer customer)
     {
         if (customer == null || !ModelState.IsValid)
         {

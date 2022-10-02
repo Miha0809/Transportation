@@ -24,6 +24,19 @@
         "runtime": {
           "bin/placeholder/Transportation.Models.Customer.dll": {}
         }
+      },
+      "Transportation.Models.Driver/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Transportation.Models.Customer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Transportation.Models.Driver.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Transportation.Models.Driver.dll": {}
+        }
       }
     }
   },
@@ -37,12 +50,18 @@
       "type": "project",
       "path": "../Transportation.Models.Customer/Transportation.Models.Customer.csproj",
       "msbuildProject": "../Transportation.Models.Customer/Transportation.Models.Customer.csproj"
+    },
+    "Transportation.Models.Driver/1.0.0": {
+      "type": "project",
+      "path": "../Transportation.Models.Driver/Transportation.Models.Driver.csproj",
+      "msbuildProject": "../Transportation.Models.Driver/Transportation.Models.Driver.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Transportation.Models >= 1.0.0",
-      "Transportation.Models.Customer >= 1.0.0"
+      "Transportation.Models.Customer >= 1.0.0",
+      "Transportation.Models.Driver >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -75,6 +94,9 @@
             "D:\\Mark\\Programming\\Projects\\Back-end\\C#\\ASP.NET\\Transportation\\Transportation.Models.Customer\\Transportation.Models.Customer.csproj": {
               "projectPath": "D:\\Mark\\Programming\\Projects\\Back-end\\C#\\ASP.NET\\Transportation\\Transportation.Models.Customer\\Transportation.Models.Customer.csproj"
             },
+            "D:\\Mark\\Programming\\Projects\\Back-end\\C#\\ASP.NET\\Transportation\\Transportation.Models.Driver\\Transportation.Models.Driver.csproj": {
+              "projectPath": "D:\\Mark\\Programming\\Projects\\Back-end\\C#\\ASP.NET\\Transportation\\Transportation.Models.Driver\\Transportation.Models.Driver.csproj"
+            },
             "D:\\Mark\\Programming\\Projects\\Back-end\\C#\\ASP.NET\\Transportation\\Transportation.Models\\Transportation.Models.csproj": {
               "projectPath": "D:\\Mark\\Programming\\Projects\\Back-end\\C#\\ASP.NET\\Transportation\\Transportation.Models\\Transportation.Models.csproj"
             }
@@ -106,7 +128,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

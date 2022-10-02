@@ -10,3 +10,6 @@ D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.M
 D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Customer\obj\Debug\net6.0\refint\Transportation.Models.Customer.dll
 D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Customer\obj\Debug\net6.0\Transportation.Models.Customer.pdb
 D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Customer\obj\Debug\net6.0\ref\Transportation.Models.Customer.dll
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Customer\bin\Debug\net6.0\Transportation.Models.dll
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Customer\bin\Debug\net6.0\Transportation.Models.pdb
+D:\Mark\Programming\Projects\Back-end\C#\ASP.NET\Transportation\Transportation.Models.Customer\obj\Debug\net6.0\Transportation.Models.Customer.csproj.CopyComplete
